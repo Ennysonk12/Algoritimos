@@ -12,5 +12,5 @@ relevantes. Acredito que essa abordagem explique o uso da função "substr" na q
 
 emprego da biblioteca "cctype". Fico à disposição para esclarecer qualquer dúvida que possa 
 
-surgir sobre essas escolhas.
+surgirr sobre essas escolhas.
 Ennyson Jeielly E. dos Santos.
