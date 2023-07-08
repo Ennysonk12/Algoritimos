@@ -1,5 +1,5 @@
 Antes de apresentar os códigos que desenvolvi, gostaria de destacar o esforço e as dificuldades 
-que encontrei ao realizá-los. Especificamente, enfrentei desafios significativos nas questões 11, 
+que eu encontrei ao realizá-los. Especificamente, enfrentei desafios significativos nas questões 11, 
 12, 13 e 14 da lista, o que me levou a buscar ajuda em vários sites de dicas de programação, 
 como Rocketseat e PUCRS. Além disso, olhei diversos vídeos de programadores em canais 
 como CFBCursos, Eduardo Casavella, Código Fonte TV, Dev em Dobro e outros canais 
